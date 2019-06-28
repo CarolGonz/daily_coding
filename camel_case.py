@@ -24,5 +24,3 @@ def to_camel_case(text):
         join_strings = ''.join(list_capit)
 
         return join_strings
-
-        
