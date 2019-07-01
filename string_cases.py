@@ -64,7 +64,6 @@ def xo(s):
 
 def printer_error(s):
     # your code
-
     wronglet = list(map(chr, range(ord('n'), ord('z')+1)))
     countwl = 0
 
